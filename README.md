@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejasSrivastava2
-- 👀 I’m interested in Information And Coding Theory
-- 🌱 I’m currently learning Signal Processing and Systems Thinking
+- 👀 I’m interested in Information Theory And Coding Theory
+- 🌱 I’m currently learning Machine Learning and Software Developement
 - 💞️ I’m looking to collaborate on any interesting project.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/tejas-srivastava-1675ba247/)
 
